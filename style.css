@@ -125,8 +125,8 @@
             
             .container .b {
                 display: flex;
-                justify-content: center;
-                gap: 10px;
+                justify-content:space-aroound;
+                gap: 30px;
                 animation: slide 1s ease forwards;
                 animation-delay: .3s;
                 opacity: 0;
